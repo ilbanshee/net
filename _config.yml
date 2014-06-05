@@ -1,19 +1,19 @@
-title:            Site Title
-description:      Describe your website.
+title:            Banshee's Stuff
+description:      An aleph-zero potpourri blog...
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://blog.ilbanshee.net
 disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Marco
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "A physiotherapist and a nerd; brewmaking, taking photos, doing code and hardware chimp-stuff in the Northeast Italy."
+  email:          itsme@ilbanshee.net
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
+  twitter:        https://twitter.com/valdieu
   facebook:
-  github:
+  github:         https://github.com/ilbanshee
   stackoverflow:
   linkedin:
   instagram:
@@ -27,7 +27,7 @@ owner:
   google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-2347889-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
